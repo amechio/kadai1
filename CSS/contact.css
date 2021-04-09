@@ -1,0 +1,33 @@
+.contact dl{
+  height: 7rem;
+}
+.contact dt{
+  float: left;
+  clear: both;
+  width: 150px;
+  text-align:right;
+  /*background-color: pink;*/
+}
+.contact dd{
+  width: 480px;
+  margin-left: 160px;
+  /*background-color: orange;*/
+}
+.contact textarea{
+  width: 480px;
+}
+.contact .text{
+  width: 480px;
+}
+.submit{
+  font-size: 3rem;
+  color: white;
+  background-color: #008B8B;
+  margin: 10px;
+}
+.button{
+  text-align: center;
+}
+.button:hover{
+  opacity: 0.5;
+}
