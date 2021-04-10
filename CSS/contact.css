@@ -1,20 +1,18 @@
-/*.contact dl{
-  height: 7rem;
-}*/
+.contact dl{
+  display: table;
+}
 .contact dt{
   float: left;
   clear: both;
   width: 150px;
   text-align:right;
   height: 7rem;
-
   background-color: pink;
 }
 .contact dd{
   width: 480px;
   margin-left: 160px;
   height: 7rem;
-
   background-color: orange;
 }
 .contact textarea{
